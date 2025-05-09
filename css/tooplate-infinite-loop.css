@@ -332,6 +332,7 @@ min-height: 87%;
   color: #fff;
   text-align: center;
   margin-bottom: 20px;
+  margin-top: 7px;
   font-weight: 600;
 }
 
@@ -646,6 +647,10 @@ figure.effect-honey:hover h2 i {
 ::-ms-input-placeholder {
   /* Microsoft Edge */
   color: white;
+}
+
+#contact .text-center {
+  margin-bottom: 0px;
 }
 
 .footImg img{
